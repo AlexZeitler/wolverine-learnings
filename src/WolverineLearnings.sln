@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings.Tests", "WolverineLearnings.Tests\WolverineLearnings.Tests.csproj", "{D2C2D0CE-285A-4BF4-B361-F5D0FC981615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings", "WolverineLearnings\WolverineLearnings.csproj", "{200A3F71-FCD2-4834-BC12-279BF48656CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C2D0CE-285A-4BF4-B361-F5D0FC981615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C2D0CE-285A-4BF4-B361-F5D0FC981615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C2D0CE-285A-4BF4-B361-F5D0FC981615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C2D0CE-285A-4BF4-B361-F5D0FC981615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
