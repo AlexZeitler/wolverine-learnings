@@ -7,9 +7,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="WolverineFx" Version="0.9.7" />
-      <PackageReference Include="WolverineFx.FluentValidation" Version="0.9.7" />
-      <PackageReference Include="WolverineFx.Marten" Version="0.9.7" />
+      <PackageReference Include="WolverineFx" Version="0.9.8" />
+      <PackageReference Include="WolverineFx.FluentValidation" Version="0.9.8" />
+      <PackageReference Include="WolverineFx.Marten" Version="0.9.8" />
     </ItemGroup>
 
 </Project>
