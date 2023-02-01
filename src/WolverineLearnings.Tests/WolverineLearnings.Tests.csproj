@@ -5,6 +5,8 @@
         <Nullable>enable</Nullable>
 
         <IsPackable>false</IsPackable>
+
+        <AssemblyName>Learnings.Tests</AssemblyName>
     </PropertyGroup>
 
     <ItemGroup>
