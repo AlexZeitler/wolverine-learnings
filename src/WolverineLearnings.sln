@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings.Tests", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings", "WolverineLearnings\WolverineLearnings.csproj", "{200A3F71-FCD2-4834-BC12-279BF48656CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings.RabbitMQ.Tests", "WolverineLearnings.RabbitMQ.Tests\WolverineLearnings.RabbitMQ.Tests.csproj", "{634FB011-082D-4742-85BC-A5F6B8C3BB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WolverineLearnings.InMemory.Tests", "WolverineLearnings.InMemory.Tests\WolverineLearnings.InMemory.Tests.csproj", "{3E76434A-6267-421B-B485-C161612FE33B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{200A3F71-FCD2-4834-BC12-279BF48656CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634FB011-082D-4742-85BC-A5F6B8C3BB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634FB011-082D-4742-85BC-A5F6B8C3BB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634FB011-082D-4742-85BC-A5F6B8C3BB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634FB011-082D-4742-85BC-A5F6B8C3BB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E76434A-6267-421B-B485-C161612FE33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E76434A-6267-421B-B485-C161612FE33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E76434A-6267-421B-B485-C161612FE33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E76434A-6267-421B-B485-C161612FE33B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

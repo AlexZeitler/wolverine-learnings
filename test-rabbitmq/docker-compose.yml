@@ -2,6 +2,7 @@ version: "3"
 
 services: 
   test-servicebus:
-    image: rabbitmq:3.10-management-alpine
+    image: rabbitmq:3.10-management
     ports:
       - "15672:15672"
+      - "5672:5672"
